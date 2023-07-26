@@ -4,9 +4,6 @@ github.com/bmizerany/pat
 # github.com/davecgh/go-spew v1.1.1
 ## explicit
 github.com/davecgh/go-spew/spew
-# github.com/eventials/go-tus v0.0.0-20220610120217-05d0564bb571
-## explicit; go 1.13
-github.com/eventials/go-tus
 # github.com/golang/snappy v0.0.0-20180518054509-2e65f85255db
 ## explicit
 github.com/golang/snappy
